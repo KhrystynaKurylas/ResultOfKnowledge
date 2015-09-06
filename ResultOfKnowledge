@@ -1,4 +1,3 @@
-import javax.swing.*;
 class ResultOfKnowledge 
 { 
  final static int RATE=100;
